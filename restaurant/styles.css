@@ -1,0 +1,72 @@
+/**#bg {
+	position: fixed;
+	top: -50%;
+	left: -50%;
+
+	width: 200%;
+	height: 200%;
+}
+
+#bg img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+}
+
+html { 
+  background: url(rarebitlogo.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}**/
+
+body {
+	background: #000000;
+}
+
+.RB {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  overflow: hidden;
+  background-color: #000000;
+}
+
+
+
+a:link {
+  color: #ccccb3;
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+  color: #ccccb3;
+}
+a:hover {
+  text-decoration: none;
+  color: rgba(224,147,60,1);
+}
+a:active {
+  text-decoration: none;
+  color: rgba(224,147,60,1);
+}
+
+.eat a:link {
+  color: #7FFF00;
+  text-decoration: none;
+
+}
+
+.eat a:visited{
+  color: #7FFF00;
+  text-decoration: none;
+
+}
+
+
+
